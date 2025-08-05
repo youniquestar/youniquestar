@@ -1,6 +1,6 @@
 ![Hello, I'm youniquestar!](assets/WhatsApp%20Image%202025-08-04%20at%2016.16.47_bdf753b0.jpg)
 
-# Hi there 👋
+# Hi there, I'm Jeremiah Alao 👋
 Welcome to my profile!
 
 ## 🚀 About Me
