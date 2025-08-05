@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Jeremiah Alao 👋
 
-<!--
-**youniquestar/youniquestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer with a love for open source, learning, and sharing knowledge.  
+- 🌱 Currently learning: [AI/ML Engineering in Robotics]
+- 👯 Looking to collaborate on: [Robotics projects related to AI]
+- 💬 Ask me about: [Robotics, Artificial Intelligence, Chess]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Skills
+
+- Languages: [Python, C++]
+- Tools: [Git, VSCode, Pycharm, Arduino IDE]
+
+
+## 📊 GitHub Stats
+
+![youniquestar's GitHub stats](https://github-readme-stats.vercel.app/api?username=youniquestar&show_icons=true&theme=radical)
+
+
+## 📫 How to reach me
+
+- [Email](mailto:jeremiah.alao2020@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jeremiah-alao-074438260)
+
+---
+
+> “Grow, build, rise, one step at a time.”
