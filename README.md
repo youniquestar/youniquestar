@@ -3,14 +3,14 @@
 ## 🚀 About Me
 
 I'm a passionate developer with a love for open source, learning, and sharing knowledge.  
-- 🌱 Currently learning: [AI/ML Engineering in Robotics]
-- 👯 Looking to collaborate on: [Robotics projects related to AI]
-- 💬 Ask me about: [Robotics, Artificial Intelligence, Chess]
+- 🌱 Currently learning: AI/ML Engineering in Robotics.
+- 👯 Looking to collaborate on: Robotics projects related to AI.
+- 💬 Ask me about: Robotics, Artificial Intelligence, Chess.
 
 ## 🛠️ My Skills
 
-- Languages: [Python, C++]
-- Tools: [Git, VSCode, Pycharm, Arduino IDE]
+- Languages: Python, C++.
+- Tools: Git, VSCode, Pycharm, Arduino IDE.
 
 
 ## 📊 GitHub Stats
