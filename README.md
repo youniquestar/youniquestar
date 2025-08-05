@@ -1,4 +1,4 @@
-![Hello, I'm youniquestar!](assets/profile-banner.png)
+![Hello, I'm youniquestar!](assets/WhatsApp Image 2025-08-04 at 16.16.47_bdf753b0.jpg)
 
 # Hi there 👋
 Welcome to my profile!
