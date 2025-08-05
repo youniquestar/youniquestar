@@ -1,4 +1,7 @@
-# Hi there, I'm Jeremiah Alao 👋
+![Hello, I'm youniquestar!](assets/profile-banner.png)
+
+# Hi there 👋
+Welcome to my profile!
 
 ## 🚀 About Me
 
