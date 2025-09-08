@@ -18,7 +18,7 @@ I'm a passionate developer with a love for open source, learning, and sharing kn
 
 ## 📊 GitHub Stats
 
-![youniquestar's GitHub stats](https://github-readme-stats.vercel.app/api?username=enejiohieku&show_icons=true&theme=radical)
+![youniquestar's GitHub stats](https://github-readme-stats.vercel.app/api?username=youniquestar&show_icons=true&theme=radical)
 
 
 ## 📫 How to reach me
