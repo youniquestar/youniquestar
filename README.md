@@ -15,12 +15,6 @@ I'm a passionate programmer with a love for open source, learning, and sharing k
 - Languages: Python, C++.
 - Tools: Git, VSCode, Pycharm, Arduino IDE.
 
-
-## 📊 GitHub Stats
-
-[![youniquestar's GitHub stats](https://github-readme-stats.vercel.app/api?username=youniquestar)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 📫 How to reach me
 
 - [Email](mailto:jeremiah.alao2020@gmail.com)
