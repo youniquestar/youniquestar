@@ -6,7 +6,7 @@ Welcome to my profile!
 ## 🚀 About Me
 
 I'm a passionate programmer with a love for open source, learning, and sharing knowledge.  
-- 🌱 **Currently learning**: AI/ML Engineering in Robotics.
+- 🌱 **Currently learning**: Robotics Modelling and Control, AI Backend Engineering.
 - 👯 **Looking to collaborate on**: Robotics projects related to AI.
 - 💬 **Ask me about**: Robotics, Artificial Intelligence, Chess.
 
