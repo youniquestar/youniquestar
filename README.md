@@ -17,8 +17,8 @@ I'm a passionate programmer with a love for open source, learning, and sharing k
 
 ## 📫 How to reach me
 
-- [**Email**](mailto:jeremiah.alao2020@gmail.com)
-- [**LinkedIn**](https://www.linkedin.com/in/jeremiah-alao-074438260)
+- [**Email**](mailto:timix295@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/jeremiah-alao)
 
 ---
 
