@@ -13,7 +13,7 @@ I'm a passionate programmer with a love for open source, learning, and sharing k
 ## 🛠️ My Skills
 
 - **Languages**: Python, C++.
-- **Tools**: Git, VSCode, Pycharm, Arduino IDE.
+- **Tools**: Git, VSCode, Pycharm, Arduino IDE, Autodesk Fusion.
 
 ## 📫 How to reach me
 
