@@ -33,7 +33,7 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 <table>
   <tr>
@@ -70,7 +70,7 @@
 
 ---
 
-### 📊 GitHub Insights & Visual Analytics
+## 📊 GitHub Insights & Visual Analytics
 
 <div align="center">
   <table border="0">
@@ -97,11 +97,11 @@
 
 ---
 
-### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
 <div align="center">
 
-#### 🤖 Robotics & Simulation
+### 🤖 Robotics & Simulation
 <p>
   <img src="https://img.shields.io/badge/ROS_2_Humble-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2 Humble" />
   <img src="https://img.shields.io/badge/Gazebo_Sim-F05A28?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
@@ -112,7 +112,7 @@
   <img src="https://img.shields.io/badge/Sensor_Fusion-00CEC9?style=for-the-badge&logo=radar&logoColor=white" alt="Sensor Fusion" />
 </p>
 
-#### ⚡ Embedded Systems & IoT Firmware
+### ⚡ Embedded Systems & IoT Firmware
 <p>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/FreeRTOS-008080?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS" />
@@ -123,7 +123,7 @@
   <img src="https://img.shields.io/badge/RFID_(MFRC522)-4834D4?style=for-the-badge&logo=nfc&logoColor=white" alt="RFID" />
 </p>
 
-#### 💻 Programming Languages
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++_17/20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -133,7 +133,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
-#### 🧠 AI, Machine Learning & Backend
+### 🧠 AI, Machine Learning & Backend
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
@@ -144,7 +144,7 @@
   <img src="https://img.shields.io/badge/Predictive_Analytics-6C5CE7?style=for-the-badge&logo=databricks&logoColor=white" alt="Predictive Analytics" />
 </p>
 
-#### 📐 CAD, Prototyping & Fabrication
+### 📐 CAD, Prototyping & Fabrication
 <p>
   <img src="https://img.shields.io/badge/Autodesk_Fusion_360-FF6A00?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk Fusion" />
   <img src="https://img.shields.io/badge/FreeCAD-CB333B?style=for-the-badge&logo=freecad&logoColor=white" alt="FreeCAD" />
@@ -152,7 +152,7 @@
   <img src="https://img.shields.io/badge/Hardware_Breadboarding-D63031?style=for-the-badge&logo=circuitverse&logoColor=white" alt="Circuit Design" />
 </p>
 
-#### 🛠️ Developer Tools & Environments
+### 🛠️ Developer Tools & Environments
 <p>
   <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -166,7 +166,7 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
+## 🚀 Featured Engineering Projects
 
 <table>
   <thead>
@@ -296,7 +296,7 @@
 
 ---
 
-### 📦 Open-Source Hardware & Embedded Ecosystem (30+ Repos)
+## 📦 Open-Source Hardware & Embedded Ecosystem (30+ Repos)
 
 <details>
   <summary><b>Click to expand Jeremiah's complete robotics & embedded repository catalogue</b></summary>
@@ -326,7 +326,7 @@
 
 ---
 
-### 📫 Let's Connect & Collaborate
+## 📫 Let's Connect & Collaborate
 
 <div align="center">
 
