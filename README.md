@@ -5,7 +5,7 @@
 
   <!-- Dynamic Typing SVG -->
   <a href="https://github.com/youniquestar">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+Intelligent+Machines+From+Silicon+To+Software;Robotics+Modelling+%26+Control+%7C+ROS+2+Humble+%7C+Kinematics;Bare-Metal+Firmware+%7C+ESP32+%2F+FreeRTOS+%2F+Arduino;AI+Backend+Engineering+%7C+FastAPI+%26+Predictive+Analytics;37%2B+Open-Source+Robotics+%26+Embedded+Repositories" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+Intelligent+Machines+From+Silicon+To+Software;Robotics+Modelling+%26+Control+%7C+ROS+2+Jazzy+%7C+Kinematics;Bare-Metal+Firmware+%7C+ESP32+%2F+FreeRTOS+%2F+Arduino;AI+Backend+Engineering+%7C+FastAPI+%26+Predictive+Analytics;37%2B+Open-Source+Robotics+%26+Embedded+Repositories" alt="Typing Subtitle" />
   </a>
 
   <br/>
@@ -58,7 +58,7 @@
         With <b>37+ public repositories</b> spanning autonomous mobile robots, computer-vision pipelines, predictive-maintenance engines, and IoT infrastructure, I bridge the physical-digital divide to turn complex engineering problems into working hardware and software.
       </p>
       <ul>
-        <li>🔭 <b>Active Focus:</b> Advanced Robotics Modelling & Control (ROS 2 Humble, Kinematics, Gazebo) & AI Backend Engineering.</li>
+        <li>🔭 <b>Active Focus:</b> Advanced Robotics Modelling & Control (ROS 2 Jazzy, Kinematics, Gazebo) & AI Backend Engineering.</li>
         <li>🦾 <b>Flagship Robotic Arm:</b> Architecting <b><a href="https://github.com/youniquestar/astari-selah">Astari Selah</a></b> — a 5-DOF articulated robot combining FreeCAD CAD, ESP32 FreeRTOS firmware, and ROS 2 kinematics.</li>
         <li>📡 <b>Wireless Telemetry:</b> Sub-5ms low-latency peer-to-peer <b>ESP-NOW</b> motion control networks.</li>
         <li>🧠 <b>Predictive AI:</b> Author of <b><a href="https://github.com/youniquestar/pulse-ai">Pulse AI</a></b> (real-time machinery anomaly diagnosis with FastAPI) and healthcare triage systems.</li>
@@ -103,7 +103,7 @@
 
 ### 🤖 Robotics & Simulation
 <p>
-  <img src="https://img.shields.io/badge/ROS_2_Humble-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2 Humble" />
+  <img src="https://img.shields.io/badge/ROS_2_Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2 Jazzy" />
   <img src="https://img.shields.io/badge/Gazebo_Sim-F05A28?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
   <img src="https://img.shields.io/badge/RViz_2-1B365D?style=for-the-badge&logo=ros&logoColor=white" alt="RViz" />
   <img src="https://img.shields.io/badge/URDF_/_Xacro-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="URDF" />
@@ -184,7 +184,7 @@
         <sub>Open-source articulated robotic manipulator</sub>
       </td>
       <td>
-        Full-stack robotic arm from mechanical CAD in <b>FreeCAD</b>, to real-time bare-metal <b>ESP32 FreeRTOS</b> firmware, to <b>ROS 2 Humble</b> kinematics and Gazebo simulation digital twin.
+        Full-stack robotic arm from mechanical CAD in <b>FreeCAD</b>, to real-time bare-metal <b>ESP32 FreeRTOS</b> firmware, to <b>ROS 2 Jazzy</b> kinematics and Gazebo simulation digital twin.
         <br/>
         🔗 <a href="https://github.com/youniquestar/astari-selah"><b>GitHub Repo</b></a> · <a href="https://youniquestar.github.io/projects/astari-selah/"><b>Read Project Post</b></a>
       </td>
